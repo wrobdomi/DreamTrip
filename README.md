@@ -27,7 +27,7 @@ https://travel-agency-ddc82.firebaseapp.com
 
 ![dt2](https://user-images.githubusercontent.com/37666186/73756539-09836b80-4768-11ea-9ceb-c5bc1f86d357.PNG)
 
-# Demo - login in and display trip info
+# Demo - login and display trip info
 
 ![dt3](https://user-images.githubusercontent.com/37666186/73756968-bcec6000-4768-11ea-99d0-3176b93849f5.gif)
 
@@ -35,7 +35,7 @@ https://travel-agency-ddc82.firebaseapp.com
 
 ![dt4](https://user-images.githubusercontent.com/37666186/73757104-f58c3980-4768-11ea-9ea3-2d88342a880c.gif)
 
-# Demo - add trip bo basket and buy it
+# Demo - add trip to basket and buy it
 
 ![dt5](https://user-images.githubusercontent.com/37666186/73757392-79462600-4769-11ea-9308-88e125440863.gif)
 
