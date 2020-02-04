@@ -10,6 +10,15 @@ https://travel-agency-ddc82.firebaseapp.com
   + Shopping history
   + Adding comments to trip (if user bought the trip)
 
+# Technologies
+  + Angular 7
+  + NoSQL Cloud Firestore 
+  + ngbootstrap
+
+# Design
+  + Realtime updates 
+  + Responsive layout
+  
 # Home page
 
 ![dt1](https://user-images.githubusercontent.com/37666186/73756507-f7a1c880-4767-11ea-8d1f-9b6b34abd3f7.PNG)
