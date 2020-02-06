@@ -9,6 +9,7 @@ https://travel-agency-ddc82.firebaseapp.com
   + Buying trips
   + Shopping history
   + Adding comments to trip (if user bought the trip)
+  + Adding new trips offer and removing trips (admin panel - admin user role)
 
 # Technologies
   + Angular 7
@@ -26,6 +27,10 @@ https://travel-agency-ddc82.firebaseapp.com
 # Trips offer
 
 ![dt2](https://user-images.githubusercontent.com/37666186/73756539-09836b80-4768-11ea-9ceb-c5bc1f86d357.PNG)
+
+# Admin panel (admin user)
+
+![dt3](https://user-images.githubusercontent.com/37666186/73986059-02fa1d00-493d-11ea-956e-fa35a8759c46.PNG)
 
 # Demo - login and display trip info
 
